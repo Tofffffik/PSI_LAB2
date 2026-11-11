@@ -2,10 +2,10 @@
 
 Группы и студенты — из students.xlsx, билеты — из tickets.docx, журнал —
 results.xlsx. Файлы ищутся в текущей папке, иначе берутся примеры из
-lab2/data.
+data.
 
 Запуск:
-    python lab2/main.py
+    python main.py
 """
 
 from tkinter import messagebox
