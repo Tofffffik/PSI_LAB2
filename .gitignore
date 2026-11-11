@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Файлы, которые создают приложения при запуске
+journal.xlsx
+results.xlsx
+app.log
